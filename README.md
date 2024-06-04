@@ -11,6 +11,8 @@ Sou um programador Full Stack no início da carreira, apaixonado por tecnologia 
 </div>
 
 ## Tecnologias que estou aprendendo 📚
+<div style="display: flex;">
 <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-          
+</div>
+       
