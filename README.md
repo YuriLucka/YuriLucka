@@ -10,6 +10,3 @@ Sou um programador Full Stack no início da carreira, apaixonado por tecnologia 
 ## Tecnologias que estou aprendendo 📚
 - C++
 - C#
-- 
-
-
