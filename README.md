@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou Yuri 👋
 
-<!--
-**YuriLucka/YuriLucka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Sou um programador Full Stack no início da carreira, apaixonado por tecnologia e sempre buscando aprender novas ferramentas e linguagens de programação. Meu objetivo é construir soluções eficientes e inovadoras que possam fazer a diferença no mundo digital.
 
-Here are some ideas to get you started:
+## Habilidades
+- **Front-End:** HTML, CSS, JavaScript, React
+- **Back-End:** Node.js, Express, Python, Django
+- **Banco de Dados:** MySQL, MongoDB
+- **Outras Tecnologias:** Git, Docker, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que estou aprendendo
+- TypeScript
+- GraphQL
+- AWS
+- Kubernetes
+
+## Projetos
+Aqui estão alguns projetos em que estou trabalhando ou que já concluí:
+
+1. **[Projeto 1](link_do_projeto):** Descrição breve do projeto.
+2. **[Projeto 2](link_do_projeto):** Descrição breve do projeto.
+3. **
