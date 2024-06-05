@@ -1,4 +1,4 @@
-# Olá, eu sou Yuri!
+# Olá, me chamo Yuri!
 
 ## Sobre mim 🙋‍♂️
 Sou um programador Full Stack no início da carreira, apaixonado por tecnologia e sempre buscando aprender novas ferramentas e linguagens de programação.
