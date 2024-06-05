@@ -16,6 +16,3 @@ Sou um programador Full Stack no início da carreira, apaixonado por tecnologia 
 <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 </div>
-       
-## Informações
-<iframe width="200px" height="100px" src="https://athonedu.com.br/" frameborder="0"></iframe>
