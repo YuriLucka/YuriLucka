@@ -13,8 +13,8 @@ Sou um programador Full Stack no início da carreira, apaixonado por tecnologia 
 
 ## Tecnologias que estou aprendendo 📚
 <div style="display: flex;">
-<img style="background-color: lightblue; padding: 20px;" width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img style="background-color: lightblue; padding: 20px;" width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 </div>
 
 
