@@ -17,8 +17,8 @@ Sou um programador Full Stack no início da carreira, apaixonado por tecnologia 
 <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 </div>
 
-
-<div>
+##
+<div style="display: flex;">
 <a href="https://github.com/YuriLucka">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriLucka&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriLucka&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
