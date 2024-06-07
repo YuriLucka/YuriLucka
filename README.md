@@ -17,4 +17,14 @@ Sou um programador Full Stack no início da carreira, apaixonado por tecnologia 
 <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 </div>
 
+<div style="width:100px; height:100px; background-color:blue; animation: mymove 5s infinite;">
+  Este é um exemplo de uma animação CSS inline.
+</div>
+
+<style>
+@keyframes mymove {
+  from {background-color: blue;}
+  to {background-color: green;}
+}
+</style>
 
