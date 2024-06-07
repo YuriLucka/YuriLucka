@@ -18,9 +18,9 @@ Sou um programador Full Stack no início da carreira, apaixonado por tecnologia 
 </div>
 
 ##
-<div style="display: flex;">
+<div>
 <a href="https://github.com/YuriLucka">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriLucka&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/YuriLucka/YuriLucka/blob/output/github-contribution-grid-snake.svg)
